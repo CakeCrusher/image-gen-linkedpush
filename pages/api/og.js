@@ -150,6 +150,7 @@ export default async function handler(req) {
           name: "Source Code Pro",
           data: fontData,
           style: "normal",
+          emoji: "twemoji",
         },
       ],
     }
